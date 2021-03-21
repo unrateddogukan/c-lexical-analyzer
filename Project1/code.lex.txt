@@ -1,0 +1,12 @@
+Identifier(hi26)
+Operator(:=)
+Identifier(hello)
+Operator(+)
+IntConst(25)
+EndOfLine
+Identifier(hello)
+Operator(++)
+EndOfLine
+Identifier(abc_def)
+Operator(:=)
+StringConst("abc_def'e atanan string.")
